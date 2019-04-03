@@ -6,6 +6,6 @@ int main() {
 	/*
 	*  TODO: replace "XXXX-XXXXX" to your student number
 	*/
-	cout << "My student number is XXXX-XXXXX" << endl;
+	cout << "My student number is 2013-10979" << endl;
 	return 0
 }
